@@ -13,4 +13,15 @@ fruits.remove("strawbarry")
 fruits.clear()
 # remove the last element
 fruits.pop()
-print(fruits)
+# copy
+fuirst_duplicate = fruits.copy()
+# assending order
+magic_numbers = [4, 45, 23, 99 , 78, 123, 83, 45, 25, 67, 97, 79, 15, ]
+magic_numbers.sort()
+# reverse num
+magic_number.reverse()
+
+print(fruit_duplicate)
+print(magic_numbers)
+print(fruits.index("pineappile"))
+print(fruits.count("pineapplie"))
