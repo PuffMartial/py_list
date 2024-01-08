@@ -7,4 +7,10 @@ fruits.append("watermelon")
 fruits.insert(2,"apple")
 # mergin two list
 fruits.extend(vagetable)
+# remove element
+fruits.remove("strawbarry")
+# clear list
+fruits.clear()
+# remove the last element
+fruits.pop()
 print(fruits)
